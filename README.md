@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that demonstrates a common off-by-one error. The program is designed to illustrate how this type of error can occur and how to fix it.  The `bug.cob` file shows the program with the error. The `bugSolution.cob` file shows the corrected program.
